@@ -13,6 +13,8 @@ Please consider citing our paper as follows:
 ```
 ``` 
 
+## Solvers and Results
+
 While the first command below can be used to solve the centralized Quadratically Constrained Quadratic Program, the second command utilizes the proposed gradient-based optimization framework to solve the problem in a distributed way. Both commands require Gurobi to be installed. 
 
 
@@ -30,4 +32,4 @@ nohup python -u -m energy.code.qcqp_centralized --s_effect 1 --num_houses 50  \
         --save_file qcqp_centralized_s0_wthsol_50h_Qn1winter &
 ```  
 
-For more information on the inputs accepted by qcqp_gradient and qcqp_centralized, use the --help option or reference energy/code/common/arg_parser.py. The results of the experiments are saved in the logs/ folder upon completion.
+For more information on the inputs accepted by qcqp_gradient and qcqp_centralized, use the --help option or reference energy/code/common/arg_parser.py. The results of the experiments are saved in the energy/logs/ folder upon completion.
