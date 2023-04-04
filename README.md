@@ -2,7 +2,9 @@
 
 This repository contains the official implementation for the following paper on demand response program:
 
-Markup: * [GitHub Pages](https://pages.github.com/).
+```
+ * [GitHub Pages](https://pages.github.com/).
+```
 
 While the first command below can be used to solve the centralized Quadratically Constrained Quadratic Program, the second command employs the proposed gradient-based optimization framework to solve the problem in a distributed way. Both commands require Gurobi to be installed.
 
