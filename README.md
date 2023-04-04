@@ -3,7 +3,7 @@
 This repository contains the official implementation for the following paper on demand response program:
 
 
-* [A Stackelberg Game to Control the Overall Load Consumption of a Residential Neighborhood](https://pages.github.com/).
+* [A Stackelberg Game to Control the Overall Load Consumption of a Residential Neighborhood](https://pages.github.com/)
 
 
 While the first command below can be used to solve the centralized Quadratically Constrained Quadratic Program, the second command utilizes the proposed gradient-based optimization framework to solve the problem in a distributed way. Both commands require Gurobi to be installed.
