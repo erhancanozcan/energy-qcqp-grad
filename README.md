@@ -3,7 +3,7 @@
 This repository contains the official implementation for the following paper on demand response program:
 
 
-* [A Stackelberg Game to Control the Overall Load Consumption of a Residential Neighborhood](https://pages.github.com/)
+* [A Stackelberg Game to Control the Overall Load Consumption of a Residential Neighborhood](https://arxiv.org/abs/2306.10935)
 
 
 This paper proposes a demand response program with dynamic pricing to control the overall load consumption of a residential neighborhood. The complexity of the proposed problem grows as the number of participating homes increases. To be able to solve the proposed problem efficiently, we develop a gradient-based distributed optimization framework. We show the benefits of utilizing our optimization approach over solving the centralized problem using a commercial solver by conducting various experiments in a simulated environment.
