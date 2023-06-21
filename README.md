@@ -15,9 +15,8 @@ Please consider citing our paper as follows:
       title={A Stackelberg Game Approach to Control the Overall Load Consumption of a Residential Neighborhood}, 
       author={Erhan Can Ozcan and Ioannis Ch. Paschalidis},
       year={2023},
-      eprint={2306.10935},
-      archivePrefix={arXiv},
-      primaryClass={math.OC}
+ howpublished={arXiv preprint},
+ note={{arXiv:2306.10935}},
 }
 ``` 
 
