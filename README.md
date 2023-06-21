@@ -11,6 +11,14 @@ This paper proposes a demand response program with dynamic pricing to control th
 Please consider citing our paper as follows:
 
 ```
+@misc{ozcan2023stackelberg,
+      title={A Stackelberg Game Approach to Control the Overall Load Consumption of a Residential Neighborhood}, 
+      author={Erhan Can Ozcan and Ioannis Ch. Paschalidis},
+      year={2023},
+      eprint={2306.10935},
+      archivePrefix={arXiv},
+      primaryClass={math.OC}
+}
 ``` 
 
 ## Solvers and Results
